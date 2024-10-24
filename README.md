@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @humayonijaz
-- 👀 I’m interested in Frontend...
-- 🌱 I’m currently learning React...
-- 💞️ ...
+- 👀 I’m interested building beautiful and functional UIs.
+- 🌱 I’m currently learning React and Node.js.
+- 💞️ I'm passionate about contributing to open-source projects and collaborating with like-minded developers.
 
 
 <!---
